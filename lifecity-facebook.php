@@ -1,12 +1,13 @@
 <?php
 /**
  * Plugin Name: Lifecity Facebook Live Embed
+ * Plugin URI: https://github.com/rizennews/lifecity-facebook-live-embed
  * Description: Automatically embeds Facebook Live video and chat on your website when live.
  * Version: 1.0
  * Author: Padmore Aning
- * Author URL: https://designolabs.com
- * Plugin URL: https://github.com/rizennews/lifecity-facebook-live-embed
+ * Author URI: https://designolabs.com
  */
+
 
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
